@@ -1,0 +1,2 @@
+<meta name="keywords" content="разные, ключевые, слова">
+<meta name="description" content="краткое описание, которое выводиться под основной ссылкой выдачи гугла">
